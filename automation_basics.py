@@ -1,5 +1,5 @@
 #Conditional_statements
-if failed_attempts > 5
+if failed_attempts > 5:
     print("Account locked")
 # > < >= <= == !=
 if operating_system == "OS 2"
